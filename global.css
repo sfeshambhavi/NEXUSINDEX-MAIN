@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-inika: Inika;
+
+  /* font sizes */
+  --font-size-45xl: 64px;
+  --font-size-19xl: 38px;
+  --font-size-17xl: 36px;
+  --font-size-3xl: 22px;
+  --font-size-10xl: 29px;
+  --font-size-29xl: 48px;
+  --font-size-13xl: 32px;
+  --font-size-lgi: 19px;
+  --font-size-7xl: 26px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+  --font-size-5xl: 24px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-cadetblue-100: #78bcb8;
+  --color-cadetblue-200: #5a9c98;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-mediumturquoise: #7fcdbf;
+  --color-gray-100: rgba(0, 0, 0, 0.65);
+
+  /* Gaps */
+  --gap-95xl: 114px;
+  --gap-106xl: 125px;
+  --gap-31xl: 50px;
+  --gap-84xl: 103px;
+  --gap-92xl: 111px;
+  --gap-104xl: 123px;
+  --gap-60xl: 79px;
+  --gap-75xl: 94px;
+  --gap-174xl: 193px;
+  --gap-46xl: 65px;
+  --gap-158xl: 177px;
+  --gap-58xl: 77px;
+  --gap-22xl: 41px;
+  --gap-53xl: 72px;
+  --gap-13xl: 32px;
+  --gap-9xl: 28px;
+  --gap-5xl: 24px;
+  --gap-xl: 20px;
+  --gap-129xl: 148px;
+  --gap-62xl: 81px;
+  --gap-21xl: 40px;
+  --gap-152xl: 171px;
+  --gap-89xl: 108px;
+  --gap-65xl: 84px;
+  --gap-76xl: 95px;
+  --gap-23xl: 42px;
+  --gap-20xl: 39px;
+  --gap-66xl: 85px;
+  --gap-51xl: 70px;
+  --gap-77xl: 96px;
+  --gap-15xl: 34px;
+  --gap-72xl: 91px;
+  --gap-115xl: 134px;
+  --gap-34xl: 53px;
+
+  /* Paddings */
+  --padding-6xl: 25px;
+  --padding-xl: 20px;
+  --padding-7xl: 26px;
+  --padding-151xl: 170px;
+  --padding-243xl: 262px;
+  --padding-14xl: 33px;
+  --padding-39xl: 58px;
+  --padding-5xl: 24px;
+  --padding-lgi: 19px;
+  --padding-4xl: 23px;
+  --padding-5xs: 8px;
+  --padding-2xl: 21px;
+  --padding-mini: 15px;
+  --padding-xs: 12px;
+  --padding-82xl: 101px;
+  --padding-15xl: 34px;
+  --padding-10xl: 29px;
+  --padding-lg: 18px;
+  --padding-51xl: 70px;
+  --padding-69xl: 88px;
+
+  /* Border radiuses */
+  --br-2xs: 11px;
+}
